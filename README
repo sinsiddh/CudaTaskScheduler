@@ -1,0 +1,17 @@
+Compilation Command:
+make clean; make
+
+Execution command:
+1st arg - Grid
+2nd arg - Threads
+3rd arg - Type of Tasks
+
+Example:
+For Large Tasks:
+./p3 6 6 1
+For Medium Tasks:
+./p3 6 6 2
+For Small Tasks:
+./p3 6 6 3
+For Mixed Tasks:
+./p3 6 6 4
